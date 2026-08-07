@@ -1,0 +1,4 @@
+[submodule "third_party/ising-decoding"]
+	path = third_party/ising-decoding
+	url = git@github.com:vtomole/Ising-Decoding.git
+	branch = tutorial-leakage-predecoder
